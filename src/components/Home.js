@@ -110,9 +110,9 @@ function Home() {
                                         <tr>
                                             <th>#Id</th>
                                             <th>Name</th>
-                                            <th>Qualification</th>
-                                            <th>Email-Id</th>
                                             <th>Designation</th>
+                                            <th>Email-Id</th>
+                                            <th>Qualification</th>
                                             <th>Action</th>
                                         </tr>
                                     </thead>
