@@ -37,9 +37,9 @@ function ViewUser() {
             </div>
             <div className="user-info-single">
             <span>Name : <b>{users.name}</b></span>
-                   <span>Qualification : <b>{users.groupId}</b></span>
+                    <span>Designation : <b>{users.groupId}</b></span>
                    <span>Email : <b>{users.email}</b></span>
-                   <span>Title : <b>{users.title}</b></span>
+                   <span>Qualification: <b>{users.title}</b></span>
                    <span>Mobile : <b>{users.mobile}</b></span>
             </div>
            </div>
